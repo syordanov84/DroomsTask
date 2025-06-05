@@ -1,6 +1,6 @@
 import { baseUrl, navigateTo } from "./Navigation";
 import { LoginData, TestData } from "./TestData";
-import { Selectors, Actions } from "./PageSelectors";
+import { Selectors } from "./PageSelectors";
 import { AssertPopupMessage } from "./PageAssertions";
 import { Actions } from "./Actions";
 
